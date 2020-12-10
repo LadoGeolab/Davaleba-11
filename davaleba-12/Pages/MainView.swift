@@ -29,6 +29,7 @@ class MainViewController: UIViewController, Record {
         guard let vc = UIStoryboard(name: "Main", bundle: nil).instantiateViewController(identifier: "GameViewController") as? GameViewController else { return }
         
         //vc.record = self.initial_record
+        //
         vc.record = Int(self.rcrd.text!)
         vc.recordd = self
         //vc.score = 0
