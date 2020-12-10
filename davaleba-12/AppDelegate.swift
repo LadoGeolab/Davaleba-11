@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  NewTask
+//  davaleba-12
 //
-//  Created by Ladolado3911 on 12/4/20.
+//  Created by Ladolado3911 on 12/8/20.
 //
 
 import UIKit
